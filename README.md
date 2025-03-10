@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shafique Ur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Mehar Ali</h1>
 <h3 align="center">A passionate Cloud Applied GenAI Engineer</h3>
 
 <img align = "right" alt="Coding" width="400" src="bg.png">
