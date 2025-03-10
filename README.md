@@ -9,12 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shafique.ur.rehman?utm_source=linktree_profile_share&ltsid=50de1193-1143-486f-9918-bc97bc0e7896](https://linktr.ee/shafique.ur.rehman?utm_source=linktree_profile_share&ltsid=50de1193-1143-486f-9918-bc97bc0e7896)
 
-- 📫 How to reach me **mmahrali016@gmail.com**
+- 📫 How to reach me **mahrali016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mehar-ali-016064290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafique ur rehman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009398103700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafique ur rehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehar-ali-016064290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009398103700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maharyousufzai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafique_kz" height="30" width="40" /></a>
 </p>
 
