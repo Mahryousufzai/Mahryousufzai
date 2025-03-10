@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Applied GenAI Engineering**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shafique.ur.rehman?utm_source=linktree_profile_share&ltsid=50de1193-1143-486f-9918-bc97bc0e7896](https://linktr.ee/shafique.ur.rehman?utm_source=linktree_profile_share&ltsid=50de1193-1143-486f-9918-bc97bc0e7896)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/Mehar_Ali_Yousufzai] 
 
 - 📫 How to reach me **mahrali016@gmail.com**
 
